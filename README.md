@@ -1,36 +1,110 @@
-<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/341297447/original/45752eb32d4e572d8722f4affb602ff475013c24/fix-your-node-js-react-js-website-issues.png" alt="abhishek1561998" />
+# Hi 👋, I'm Abhishek Dandriyal
 
-<h1 align="center">Hi 👋, I'm Abhishek Dandriyal</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek1561998&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek1561998" /> </p>
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://dev-ad.vercel.app/](https://dev-ad.vercel.app/)
-
-- 📝 I regularly write articles on [https://dev-ad.vercel.app/blog](https://dev-ad.vercel.app/blog)
-
-- 💬 Ask me about **ReactJs,Typescript, Redux Toolkit, HTML, CSS, JS, NODE, MONGODB,MATERIAL UI**
-
-- 📫 How to reach me **abhishek1561998@gmail.com**
-
-- 📄 Know about my experiences [https://dev-ad.vercel.app/](https://dev-ad.vercel.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhishek-dandriyal-a73085170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-dandriyal-a73085170" height="30" width="40" /></a>
-<a href="https://codesandbox.com/abhishek1561998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhishek1561998" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Applications;8%2B+Years+Development+Experience" />
 </p>
 
-[![An image of @abhishek1561998's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishek1561998)](https://holopin.io/@abhishek1561998)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishek1561998&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/abhishek1561998?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/abhishek1561998?style=for-the-badge" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek1561998&show_icons=true&locale=en&layout=compact" alt="abhishek1561998" /></p>
+# 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek1561998&show_icons=true&locale=en" alt="abhishek1561998" /></p>
+🚀 Senior Software Engineer with **8+ years of experience** building scalable web applications.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek1561998&" alt="abhishek1561998" /></p>
+💡 I specialize in **frontend architecture, full-stack development, and modern JavaScript ecosystems.**
+
+⚡ Main focus:
+
+- React & Next.js Applications  
+- Node.js Backend Systems  
+- Scalable MERN Stack Products  
+- Performance Optimization  
+- Reusable Component Architecture  
+
+🌍 Portfolio  
+https://dev-ad.vercel.app  
+
+📝 Blog  
+https://dev-ad.vercel.app/blog  
+
+📫 Email  
+abhishek1561998@gmail.com
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,mysql,redux,tailwind,bootstrap,git,linux,webpack,firebase,gcp,figma" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishek1561998&show_icons=true&theme=radical&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek1561998&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek1561998&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek1561998&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/abhishek1561998/abhishek1561998/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/abhishek-dandriyal-a73085170">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:abhishek1561998@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://codesandbox.com/abhishek1561998">
+<img src="https://skillicons.dev/icons?i=codesandbox" />
+</a>
+
+</p>
+
+---
+
+# ⚡ Developer Philosophy
+
+> “Great software is built with simplicity, scalability, and passion.”
+
+---
+
+⭐ If you like my work, consider following my profile!
