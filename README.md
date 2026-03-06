@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abhishek Dandriyal
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Applications;8%2B+Years+of+Engineering+Experience" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Applications;6%2B+Years+of+Engineering+Experience" />
 </p>
 
 <p align="center">
