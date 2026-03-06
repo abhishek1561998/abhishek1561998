@@ -1,46 +1,55 @@
-# Hi 👋, I'm Abhishek Dandriyal
+# 👋 Hi, I'm Abhishek Dandriyal
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Applications;8%2B+Years+Development+Experience" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Applications;8%2B+Years+of+Engineering+Experience" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishek1561998&label=Profile%20views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/abhishek1561998?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/abhishek1561998?style=for-the-badge" />
+<a href="https://abhishek.digitalaiindia.com">
+<img src="https://img.shields.io/badge/Portfolio-abhishek.digitalaiindia.com-blue?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=abhishek1561998&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/abhishek1561998?style=for-the-badge"/>
+
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-🚀 Senior Software Engineer with **8+ years of experience** building scalable web applications.
+💻 Senior Software Engineer with **6+ years of experience** building scalable web applications.
 
-💡 I specialize in **frontend architecture, full-stack development, and modern JavaScript ecosystems.**
+⚡ Specialised in modern JavaScript ecosystem and full-stack product development.
 
-⚡ Main focus:
+Main expertise:
 
-- React & Next.js Applications  
-- Node.js Backend Systems  
-- Scalable MERN Stack Products  
-- Performance Optimization  
-- Reusable Component Architecture  
+• React
+• Next.js
+• Node.js
+• TypeScript
+• MongoDB
 
-🌍 Portfolio  
-https://dev-ad.vercel.app  
+🏗 Experience building production systems in:
 
-📝 Blog  
-https://dev-ad.vercel.app/blog  
+• FinTech Platforms
+• Enterprise Content Management
+• SaaS Products
+• Billing Systems
 
-📫 Email  
-abhishek1561998@gmail.com
+🌐 Portfolio
+https://abhishek.digitalaiindia.com
+
+📫 Email
+[abhishek1561998@gmail.com](mailto:abhishek1561998@gmail.com)
 
 ---
 
-# 🛠 Tech Stack
+# 🧠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,mysql,redux,tailwind,bootstrap,git,linux,webpack,firebase,gcp,figma" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,mysql,redux,tailwind,bootstrap,git,linux,webpack,firebase,gcp,figma"/>
 </p>
 
 ---
@@ -49,9 +58,9 @@ abhishek1561998@gmail.com
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishek1561998&show_icons=true&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishek1561998&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek1561998&layout=compact&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek1561998&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -60,7 +69,9 @@ abhishek1561998@gmail.com
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek1561998&theme=radical&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=abhishek1561998&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -68,7 +79,9 @@ abhishek1561998@gmail.com
 # 📈 Contribution Activity
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek1561998&theme=react-dark&hide_border=true"/>
+
 </p>
 
 ---
@@ -86,15 +99,15 @@ abhishek1561998@gmail.com
 <p align="center">
 
 <a href="https://linkedin.com/in/abhishek-dandriyal-a73085170">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:abhishek1561998@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://codesandbox.com/abhishek1561998">
-<img src="https://skillicons.dev/icons?i=codesandbox" />
+<img src="https://skillicons.dev/icons?i=codesandbox"/>
 </a>
 
 </p>
@@ -103,8 +116,8 @@ abhishek1561998@gmail.com
 
 # ⚡ Developer Philosophy
 
-> “Great software is built with simplicity, scalability, and passion.”
+> Great software is built with **simplicity, scalability, and engineering discipline.**
 
 ---
 
-⭐ If you like my work, consider following my profile!
+⭐ If you like my work, consider following my GitHub.
